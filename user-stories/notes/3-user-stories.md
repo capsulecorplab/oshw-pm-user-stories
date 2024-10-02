@@ -1,9 +1,9 @@
 ---
-id: grm72euar5jvm3g7039hzc9
-title: OSHW Project Management User Stories
+id: 8655o7b563qlvdmr8bh7reg
+title: 3. User Stories
 desc: ''
-updated: 1727819362311
-created: 1727814145470
+updated: 1727901391236
+created: 1727901357605
 ---
 
 ## User Stories
