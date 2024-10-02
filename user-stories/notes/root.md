@@ -2,22 +2,14 @@
 id: grm72euar5jvm3g7039hzc9
 title: OSHW Project Management User Stories
 desc: ''
-updated: 1727819362311
+updated: 1727904414179
 created: 1727814145470
 ---
 
-## User Stories
+## Preamble
 
-![[3-user-stories.user-stories-list]]
+((Welcome to the OSHW project management workshop))
 
-## Users
+## [[0-workshop]]
 
-![[3-user-stories.users-list]]
-
-## Use Cases
-
-![[3-user-stories.use-cases-list]]
-
-## Rationales
-
-![[3-user-stories.rationales-list]]
+![[0-workshop]]
