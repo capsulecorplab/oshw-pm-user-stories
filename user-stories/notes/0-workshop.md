@@ -10,9 +10,9 @@ created: 1727904190499
 
 ![[1-audience-survey]]
 
-## [[2-stakeholder-needs]]
+## [[2-core-capabilities]]
 
-![[2-stakeholder-needs]]
+![[2-core-capabilities]]
 
 ## [[3-user-stories]]
 
