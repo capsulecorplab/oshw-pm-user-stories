@@ -2,7 +2,7 @@
 id: xox7exjnhcxnab73bxyrblt
 title: 0. Workshop
 desc: ''
-updated: 1727904210519
+updated: 1728596650023
 created: 1727904190499
 ---
 
@@ -10,9 +10,9 @@ created: 1727904190499
 
 ![[1-audience-survey]]
 
-## [[2-core-capabilities]]
+## [[2-a-better-way]]
 
-![[2-core-capabilities]]
+![[2-a-better-way]]
 
 ## [[3-user-stories]]
 
