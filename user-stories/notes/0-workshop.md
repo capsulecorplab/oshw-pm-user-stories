@@ -2,9 +2,11 @@
 id: xox7exjnhcxnab73bxyrblt
 title: 0. Workshop
 desc: ''
-updated: 1728596650023
+updated: 1729023235508
 created: 1727904190499
 ---
+
+![](/assets/oshw-logo.svg){}
 
 ## [[1-audience-survey]]
 
