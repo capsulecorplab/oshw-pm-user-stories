@@ -1,8 +1,8 @@
 ---
 id: 8655o7b563qlvdmr8bh7reg
-title: 3. User Stories
+title: 3. Developing User Stories
 desc: ''
-updated: 1727901391236
+updated: 1728597502049
 created: 1727901357605
 ---
 
