@@ -2,11 +2,11 @@
 id: 6k53zfadywhww1r26lbeykt
 title: 2. Pillars
 desc: ''
-updated: 1728596101446
+updated: 1730237381261
 created: 1728595325306
 ---
 
-Classes of data needed to be modeled to support [[2-a-better-way.1-core-capabilities]]
+Classes of data that need to be captured [[2-a-better-way.1-core-capabilities]]
 
 ## [[2-a-better-way.2-pillars.1-bom-data]]
 
