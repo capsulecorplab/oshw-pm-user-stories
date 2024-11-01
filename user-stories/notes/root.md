@@ -2,9 +2,11 @@
 id: grm72euar5jvm3g7039hzc9
 title: OSHW Project Management User Stories
 desc: ''
-updated: 1727904414179
+updated: 1730491807960
 created: 1727814145470
 ---
+
+![](/assets/oshw-logo.svg){}
 
 ## Preamble
 
