@@ -2,13 +2,15 @@
 id: dvx35bxeck5zhnbvh5o4xq3
 title: User Stories List
 desc: ''
-updated: 1732055714789
+updated: 1732311142785
 created: 1727819190610
 ---
 
 ![[3-user-stories.user-stories-list.user-build-an-oshw-project]]
 
 ![[3-user-stories.user-stories-list.developer-organize-projects]]
+
+![[3-user-stories.user-stories-list.developer-verify-project-data]]
 
 ![[3-user-stories.user-stories-list.developer-decompose-project]]
 
