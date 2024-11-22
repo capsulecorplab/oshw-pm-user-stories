@@ -2,7 +2,7 @@
 id: gcx7j3slce2kb38rqjy05xs
 title: Developer Organize Projects
 desc: ''
-updated: 1732052708414
+updated: 1732311752487
 created: 1729026401589
 ---
 
@@ -14,4 +14,8 @@ related to [[2-a-better-way.1-core-capabilities]]: [[2-a-better-way.1-core-capab
 
 ## notes
 - need for bridging knowledge gap between industry standard and open-source practices; no mentoring programs / methodology
+  - while the DOF team agrees this is a challenge within the OSHW community, it is outside the scope of DOF (packaging a OSHW project to be shareable/modifiable/reproducible)
 - lintable data structure
+  - interpret "lintable" to mean the content in the model is verifiable (no missing fields, orphan elements, etc.)
+  - LinkML "validate" capability implements these kinds of tests
+  - a.k.a., expose ability to validate content
