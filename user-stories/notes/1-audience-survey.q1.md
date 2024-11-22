@@ -2,7 +2,7 @@
 id: vatakntmpixw8trhk0j7d18
 title: Q1. How many people here have released a OSHW project? (x1/y)
 desc: ''
-updated: 1732313102673
+updated: 1732315393623
 created: 1727901744843
 ---
 
@@ -25,3 +25,12 @@ created: 1727901744843
   - any instance of a component in DOF needs to have a (fully qualified?) singular definitive name; this should be one-to-one and onto
     - investigate connection between structural diffing and mapping to other tools in user stories
 - need context as to why a design was changed (e.g., a capacitor was swapped out or removed), or any design decision
+  - this is a kind of annotation capability that should
+    - annotate any element in a project (e.g., components, aspects of components, steps in instructions, any data structure)
+    - include ability to leave commentary
+    - be able to point to one or more element(s) that it is annotating
+    - be able to point to one or more "source" element(s), s.a.,
+      - a Bib reference
+      - another annotation
+      - an "analysis artifact"
+    - be supported in m30ml
