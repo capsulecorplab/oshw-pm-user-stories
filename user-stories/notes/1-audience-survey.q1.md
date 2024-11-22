@@ -2,16 +2,19 @@
 id: vatakntmpixw8trhk0j7d18
 title: Q1. How many people here have released a OSHW project? (x1/y)
 desc: ''
-updated: 1732057276723
+updated: 1732313102673
 created: 1727901744843
 ---
 
-## notes
-
+## example projects
 - led prototype board light-on wsd 20 clone stm32 - up and running
 - halloween vending machine
+  build earrings for rabbi
+- rc2014
+
+## notes
+
 - diffs are useless unless you pay for a service
-- would like to build earrings for rabbi
 - openscad - jump to microelectronics
 - challenge getting into digital space
 - "structural diffing" - see diff tastic
@@ -22,4 +25,3 @@ created: 1727901744843
   - any instance of a component in DOF needs to have a (fully qualified?) singular definitive name; this should be one-to-one and onto
     - investigate connection between structural diffing and mapping to other tools in user stories
 - need context as to why a design was changed (e.g., a capacitor was swapped out or removed), or any design decision
-- rc2014
