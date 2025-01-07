@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "CC-BY-4.0",
   "description": "",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.124.2"
