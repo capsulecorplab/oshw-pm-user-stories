@@ -1,0 +1,6374 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1737660138102,
+      "created": 1737660138102,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "grm72euar5jvm3g7039hzc9": {
+      "id": "grm72euar5jvm3g7039hzc9",
+      "title": "OSHW Project Management User Stories",
+      "desc": "",
+      "updated": 1730492720315,
+      "created": 1727814145470,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a58f008dac7f69513dec9e1de9444f92",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "grm72euar5jvm3g7039hzc9",
+            "vaultName": "vault"
+          },
+          "value": "0-workshop",
+          "alias": "0-workshop",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 326
+            },
+            "end": {
+              "line": 6,
+              "column": 18,
+              "offset": 340
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "0-workshop"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "root",
+            "id": "grm72euar5jvm3g7039hzc9",
+            "vaultName": "vault"
+          },
+          "value": "0-workshop",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 372
+            },
+            "end": {
+              "line": 10,
+              "column": 16,
+              "offset": 387
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "0-workshop"
+          }
+        }
+      ],
+      "anchors": {
+        "preamble": {
+          "type": "header",
+          "text": "Preamble",
+          "value": "preamble",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "0-workshop": {
+          "type": "header",
+          "text": "0-workshop",
+          "value": "0-workshop",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xox7exjnhcxnab73bxyrblt",
+        "py9pnyni5n8iwwbgqmfsad1",
+        "x9z2rffos85uyh5a7c1xmh2",
+        "8655o7b563qlvdmr8bh7reg",
+        "u4pvwq8xtlj4awlt51jjzow"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "u4pvwq8xtlj4awlt51jjzow": {
+      "id": "u4pvwq8xtlj4awlt51jjzow",
+      "title": "Templates",
+      "desc": "",
+      "updated": 1727818941626,
+      "created": 1727818941626,
+      "custom": {},
+      "fname": "templates",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8b4be45df629e0f541cbd540df7c284c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "nh9rxz3m5c7kjdisltwk9xn",
+        "vnicpusapaldjc73aqtivy0"
+      ],
+      "parent": "grm72euar5jvm3g7039hzc9",
+      "data": {}
+    },
+    "vnicpusapaldjc73aqtivy0": {
+      "id": "vnicpusapaldjc73aqtivy0",
+      "title": "User Story",
+      "desc": "",
+      "updated": 1729030320141,
+      "created": 1727819058781,
+      "custom": {},
+      "fname": "templates.user-story",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a7e33f38045149609e5ff03151cbc1da",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.user-story",
+            "id": "vnicpusapaldjc73aqtivy0",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list",
+          "alias": "3-user-stories.users-list",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 35,
+              "offset": 35
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.user-story",
+            "id": "vnicpusapaldjc73aqtivy0",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list",
+          "alias": "3-user-stories.use-cases-list",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 47
+            },
+            "end": {
+              "line": 3,
+              "column": 44,
+              "offset": 80
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.user-story",
+            "id": "vnicpusapaldjc73aqtivy0",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list",
+          "alias": "3-user-stories.rationales-list",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 96
+            },
+            "end": {
+              "line": 4,
+              "column": 49,
+              "offset": 130
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.user-story",
+            "id": "vnicpusapaldjc73aqtivy0",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 143
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 181
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 2,
+              "column": 34,
+              "offset": 34
+            },
+            "indent": []
+          },
+          "value": "templates.user-story",
+          "alias": "templates.user-story"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "u4pvwq8xtlj4awlt51jjzow",
+      "data": {}
+    },
+    "nh9rxz3m5c7kjdisltwk9xn": {
+      "id": "nh9rxz3m5c7kjdisltwk9xn",
+      "title": "Default",
+      "desc": "",
+      "updated": 1727819046086,
+      "created": 1727818977253,
+      "custom": {},
+      "fname": "templates.default",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a6195164f6e3cb5c9fd3577772bb621c",
+      "links": [],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "u4pvwq8xtlj4awlt51jjzow",
+      "data": {}
+    },
+    "8655o7b563qlvdmr8bh7reg": {
+      "id": "8655o7b563qlvdmr8bh7reg",
+      "title": "3. Developing User Stories",
+      "desc": "",
+      "updated": 1730841692756,
+      "created": 1727901357605,
+      "custom": {},
+      "fname": "3-user-stories",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "efc17cb384a5c84b6b96dea223e33613",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories",
+            "id": "8655o7b563qlvdmr8bh7reg",
+            "vaultName": "vault"
+          },
+          "value": "templates.user-story",
+          "alias": "templates.user-story",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 2,
+              "column": 34,
+              "offset": 34
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "templates.user-story"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories",
+            "id": "8655o7b563qlvdmr8bh7reg",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 63
+            },
+            "end": {
+              "line": 6,
+              "column": 38,
+              "offset": 100
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories",
+            "id": "8655o7b563qlvdmr8bh7reg",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 112
+            },
+            "end": {
+              "line": 10,
+              "column": 31,
+              "offset": 142
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.users-list"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories",
+            "id": "8655o7b563qlvdmr8bh7reg",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 158
+            },
+            "end": {
+              "line": 14,
+              "column": 35,
+              "offset": 192
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories",
+            "id": "8655o7b563qlvdmr8bh7reg",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 209
+            },
+            "end": {
+              "line": 18,
+              "column": 36,
+              "offset": 244
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list"
+          }
+        },
+        {
+          "from": {
+            "fname": "0-workshop",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 4,
+              "offset": 98
+            },
+            "end": {
+              "line": 10,
+              "column": 22,
+              "offset": 116
+            },
+            "indent": []
+          },
+          "value": "3-user-stories",
+          "alias": "3-user-stories"
+        },
+        {
+          "from": {
+            "fname": "0-workshop",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 118
+            },
+            "end": {
+              "line": 12,
+              "column": 20,
+              "offset": 137
+            },
+            "indent": []
+          },
+          "value": "3-user-stories"
+        }
+      ],
+      "anchors": {
+        "user-stories": {
+          "type": "header",
+          "text": "User Stories",
+          "value": "user-stories",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "users": {
+          "type": "header",
+          "text": "Users",
+          "value": "users",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "use-cases": {
+          "type": "header",
+          "text": "Use Cases",
+          "value": "use-cases",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "rationales": {
+          "type": "header",
+          "text": "Rationales",
+          "value": "rationales",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "rfvhnvj05t1ik89sdevynbt",
+        "0mp73mxrsqppact7oc0rluz",
+        "dvx35bxeck5zhnbvh5o4xq3",
+        "7d3hv9b0hklsmmog8ng98ql"
+      ],
+      "parent": "grm72euar5jvm3g7039hzc9",
+      "data": {}
+    },
+    "7d3hv9b0hklsmmog8ng98ql": {
+      "id": "7d3hv9b0hklsmmog8ng98ql",
+      "title": "Users List",
+      "desc": "",
+      "updated": 1727820168089,
+      "created": 1727819166204,
+      "custom": {},
+      "fname": "3-user-stories.users-list",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "77ed30b4c25264e6ac0341e2162ec769",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.users-list",
+            "id": "7d3hv9b0hklsmmog8ng98ql",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 41,
+              "offset": 41
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.users-list",
+            "id": "7d3hv9b0hklsmmog8ng98ql",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 1,
+              "offset": 42
+            },
+            "end": {
+              "line": 3,
+              "column": 56,
+              "offset": 97
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 112
+            },
+            "end": {
+              "line": 10,
+              "column": 31,
+              "offset": 142
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list"
+        },
+        {
+          "from": {
+            "fname": "templates.user-story",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 35,
+              "offset": 35
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list",
+          "alias": "3-user-stories.users-list"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "fxz8p3n6c85t1vv7zdzzh35"
+      ],
+      "parent": "8655o7b563qlvdmr8bh7reg",
+      "data": {}
+    },
+    "fxz8p3n6c85t1vv7zdzzh35": {
+      "id": "fxz8p3n6c85t1vv7zdzzh35",
+      "title": "OSHW User",
+      "desc": "",
+      "updated": 1727820071970,
+      "created": 1727820010018,
+      "custom": {},
+      "fname": "3-user-stories.users-list.oshw-user",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dee594fdd3f65a426f9dc995b2b33eca",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.users-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 41,
+              "offset": 41
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.use-cases-list.fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 42,
+              "offset": 52
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "alias": "3-user-stories.users-list.oshw-user"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 45,
+              "offset": 45
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "alias": "3-user-stories.users-list.oshw-user"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 45,
+              "offset": 45
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "alias": "3-user-stories.users-list.oshw-user"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "1xociqysd5w7rdc48axj3av"
+      ],
+      "parent": "7d3hv9b0hklsmmog8ng98ql",
+      "data": {}
+    },
+    "1xociqysd5w7rdc48axj3av": {
+      "id": "1xociqysd5w7rdc48axj3av",
+      "title": "OSHW Developer",
+      "desc": "",
+      "updated": 1727820121091,
+      "created": 1727820089592,
+      "custom": {},
+      "fname": "3-user-stories.users-list.oshw-user.oshw-developer",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "54a8c4375d150fcc390b7799637346ae",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.users-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 1,
+              "offset": 42
+            },
+            "end": {
+              "line": 3,
+              "column": 56,
+              "offset": 97
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.use-cases-list.fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 74
+            },
+            "end": {
+              "line": 5,
+              "column": 57,
+              "offset": 128
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "fxz8p3n6c85t1vv7zdzzh35",
+      "data": {}
+    },
+    "dvx35bxeck5zhnbvh5o4xq3": {
+      "id": "dvx35bxeck5zhnbvh5o4xq3",
+      "title": "User Stories List",
+      "desc": "",
+      "updated": 1730237886019,
+      "created": 1727819190610,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b84b753cc2fa8b75ecd17e6b0e78c310",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 65,
+              "offset": 65
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.developer-organize-projects",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 67
+            },
+            "end": {
+              "line": 4,
+              "column": 66,
+              "offset": 132
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.developer-decompose-project",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 134
+            },
+            "end": {
+              "line": 6,
+              "column": 66,
+              "offset": 199
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 201
+            },
+            "end": {
+              "line": 8,
+              "column": 84,
+              "offset": 284
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 286
+            },
+            "end": {
+              "line": 10,
+              "column": 79,
+              "offset": 364
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 366
+            },
+            "end": {
+              "line": 12,
+              "column": 64,
+              "offset": 429
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "id": "dvx35bxeck5zhnbvh5o4xq3",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.user-stories-list.developer-automate-certification",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 431
+            },
+            "end": {
+              "line": 14,
+              "column": 71,
+              "offset": 501
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 63
+            },
+            "end": {
+              "line": 6,
+              "column": 38,
+              "offset": 100
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "htrh9qkz97dr05c8lq6ioi7",
+        "bdlqteih3cytl4ahfyl48og",
+        "gcx7j3slce2kb38rqjy05xs",
+        "gsrjh2z5wb4nysbflzwn0ts",
+        "75ssft5a3d4zge2al7kydic",
+        "oc31cidp5sb697ncgcwtzrx",
+        "9fgrfzpuolrfuzovbk18w25"
+      ],
+      "parent": "8655o7b563qlvdmr8bh7reg",
+      "data": {}
+    },
+    "9fgrfzpuolrfuzovbk18w25": {
+      "id": "9fgrfzpuolrfuzovbk18w25",
+      "title": "User Fork an OSHW Project",
+      "desc": "",
+      "updated": 1729628354758,
+      "created": 1729627944755,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fcc6df571e3a127ae8036a779c0cf2e6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "id": "9fgrfzpuolrfuzovbk18w25",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "alias": "3-user-stories.users-list.oshw-user",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 45,
+              "offset": 45
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "id": "9fgrfzpuolrfuzovbk18w25",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.fork-an-oshw-project",
+          "alias": "3-user-stories.use-cases-list.fork-an-oshw-project",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 57
+            },
+            "end": {
+              "line": 3,
+              "column": 65,
+              "offset": 111
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.fork-an-oshw-project"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "id": "9fgrfzpuolrfuzovbk18w25",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.customize-the-forked-oshw-project",
+          "alias": "3-user-stories.rationales-list.customize-the-forked-oshw-project",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 127
+            },
+            "end": {
+              "line": 4,
+              "column": 83,
+              "offset": 195
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.customize-the-forked-oshw-project"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "id": "9fgrfzpuolrfuzovbk18w25",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 208
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 246
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "id": "9fgrfzpuolrfuzovbk18w25",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "alias": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 248
+            },
+            "end": {
+              "line": 6,
+              "column": 116,
+              "offset": 312
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 366
+            },
+            "end": {
+              "line": 12,
+              "column": 64,
+              "offset": 429
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.user-fork-an-oshw-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "oc31cidp5sb697ncgcwtzrx": {
+      "id": "oc31cidp5sb697ncgcwtzrx",
+      "title": "User Build an OSHW Project",
+      "desc": "",
+      "updated": 1729629555479,
+      "created": 1729629196459,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d55737a2ea8f849413b33f936274da80",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "id": "oc31cidp5sb697ncgcwtzrx",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "alias": "3-user-stories.users-list.oshw-user",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 45,
+              "offset": 45
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "id": "oc31cidp5sb697ncgcwtzrx",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.build-an-oshw-project",
+          "alias": "3-user-stories.use-cases-list.build-an-oshw-project",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 57
+            },
+            "end": {
+              "line": 3,
+              "column": 66,
+              "offset": 112
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.build-an-oshw-project"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "id": "oc31cidp5sb697ncgcwtzrx",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.reproduce-the-oshw-project",
+          "alias": "3-user-stories.rationales-list.reproduce-the-oshw-project",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 128
+            },
+            "end": {
+              "line": 4,
+              "column": 76,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.reproduce-the-oshw-project"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "id": "oc31cidp5sb697ncgcwtzrx",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 202
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 240
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "id": "oc31cidp5sb697ncgcwtzrx",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "alias": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 242
+            },
+            "end": {
+              "line": 6,
+              "column": 108,
+              "offset": 298
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.1-oshw-definition"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 65,
+              "offset": 65
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.user-build-an-oshw-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "75ssft5a3d4zge2al7kydic": {
+      "id": "75ssft5a3d4zge2al7kydic",
+      "title": "Developer Reuse Elements of This Project",
+      "desc": "",
+      "updated": 1729028796372,
+      "created": 1729027649777,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7a151f34ceeca930773a06efcfecf153",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "id": "75ssft5a3d4zge2al7kydic",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "id": "75ssft5a3d4zge2al7kydic",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 103,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "id": "75ssft5a3d4zge2al7kydic",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle.define-an-element-of-a-project-only-once",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle.define-an-element-of-a-project-only-once",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 180
+            },
+            "end": {
+              "line": 4,
+              "column": 115,
+              "offset": 280
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.conform-to-dry-principle.define-an-element-of-a-project-only-once"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "id": "75ssft5a3d4zge2al7kydic",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 293
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 331
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "id": "75ssft5a3d4zge2al7kydic",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 333
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 445
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 286
+            },
+            "end": {
+              "line": 10,
+              "column": 79,
+              "offset": 364
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "gsrjh2z5wb4nysbflzwn0ts": {
+      "id": "gsrjh2z5wb4nysbflzwn0ts",
+      "title": "Developer Reuse Elements of External Projects",
+      "desc": "",
+      "updated": 1729028854551,
+      "created": 1729028158733,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cfd3eee1b7b6795d51892e8da75ce753",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "id": "gsrjh2z5wb4nysbflzwn0ts",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "id": "gsrjh2z5wb4nysbflzwn0ts",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 108,
+              "offset": 169
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "id": "gsrjh2z5wb4nysbflzwn0ts",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle.build-upon-previous-engineering-effort",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle.build-upon-previous-engineering-effort",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 185
+            },
+            "end": {
+              "line": 4,
+              "column": 113,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.conform-to-dry-principle.build-upon-previous-engineering-effort"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "id": "gsrjh2z5wb4nysbflzwn0ts",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 296
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 334
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "id": "gsrjh2z5wb4nysbflzwn0ts",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 336
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 448
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 201
+            },
+            "end": {
+              "line": 8,
+              "column": 84,
+              "offset": 284
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "gcx7j3slce2kb38rqjy05xs": {
+      "id": "gcx7j3slce2kb38rqjy05xs",
+      "title": "Developer Organize Projects",
+      "desc": "",
+      "updated": 1729028856725,
+      "created": 1729026401589,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5e2bdbe2399230dac9f1c1310a142419",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "id": "gcx7j3slce2kb38rqjy05xs",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "id": "gcx7j3slce2kb38rqjy05xs",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 67,
+              "offset": 128
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "id": "gcx7j3slce2kb38rqjy05xs",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 144
+            },
+            "end": {
+              "line": 4,
+              "column": 74,
+              "offset": 203
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.conform-to-dry-principle"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "id": "gcx7j3slce2kb38rqjy05xs",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 216
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 254
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "id": "gcx7j3slce2kb38rqjy05xs",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 256
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 67
+            },
+            "end": {
+              "line": 4,
+              "column": 66,
+              "offset": 132
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.developer-organize-projects"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "bdlqteih3cytl4ahfyl48og": {
+      "id": "bdlqteih3cytl4ahfyl48og",
+      "title": "Developer Decompose Project",
+      "desc": "",
+      "updated": 1729028858943,
+      "created": 1729027234832,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "498a375ac6f8ff1cc206765910a53b70",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "id": "bdlqteih3cytl4ahfyl48og",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "id": "bdlqteih3cytl4ahfyl48og",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 107,
+              "offset": 168
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "id": "bdlqteih3cytl4ahfyl48og",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle.identify-reusable-elements-of-a-project",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle.identify-reusable-elements-of-a-project",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 184
+            },
+            "end": {
+              "line": 4,
+              "column": 114,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.conform-to-dry-principle.identify-reusable-elements-of-a-project"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "id": "bdlqteih3cytl4ahfyl48og",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 296
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 334
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "id": "bdlqteih3cytl4ahfyl48og",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 336
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 448
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 134
+            },
+            "end": {
+              "line": 6,
+              "column": 66,
+              "offset": 199
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.developer-decompose-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "htrh9qkz97dr05c8lq6ioi7": {
+      "id": "htrh9qkz97dr05c8lq6ioi7",
+      "title": "Developer Automate Certification",
+      "desc": "",
+      "updated": 1729024811179,
+      "created": 1729024693782,
+      "custom": {},
+      "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b6e031aea4433f9e396757a188e8c5f0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "id": "htrh9qkz97dr05c8lq6ioi7",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "end": {
+              "line": 2,
+              "column": 60,
+              "offset": 60
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "id": "htrh9qkz97dr05c8lq6ioi7",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.automate-certification",
+          "alias": "3-user-stories.use-cases-list.automate-certification",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 67,
+              "offset": 128
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.automate-certification"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "id": "htrh9qkz97dr05c8lq6ioi7",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.rationales-list.easily-certify-every-release",
+          "alias": "3-user-stories.rationales-list.easily-certify-every-release",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 144
+            },
+            "end": {
+              "line": 4,
+              "column": 78,
+              "offset": 207
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.rationales-list.easily-certify-every-release"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "id": "htrh9qkz97dr05c8lq6ioi7",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 220
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 258
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "id": "htrh9qkz97dr05c8lq6ioi7",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "alias": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 260
+            },
+            "end": {
+              "line": 6,
+              "column": 111,
+              "offset": 319
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.2-oshw-certification"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 431
+            },
+            "end": {
+              "line": 14,
+              "column": 71,
+              "offset": 501
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.user-stories-list.developer-automate-certification"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dvx35bxeck5zhnbvh5o4xq3",
+      "data": {}
+    },
+    "0mp73mxrsqppact7oc0rluz": {
+      "id": "0mp73mxrsqppact7oc0rluz",
+      "title": "Use Cases List",
+      "desc": "",
+      "updated": 1730843205786,
+      "created": 1727819205635,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "aa355aa34fa4f16a67656c341df98978",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 158
+            },
+            "end": {
+              "line": 14,
+              "column": 35,
+              "offset": 192
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list"
+        },
+        {
+          "from": {
+            "fname": "templates.user-story",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 47
+            },
+            "end": {
+              "line": 3,
+              "column": 44,
+              "offset": 80
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list",
+          "alias": "3-user-stories.use-cases-list"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "z3esa6d0s7y1ksnl2pr0uzv",
+        "0ip40ulgkzaq74x6gu4o1lv",
+        "6guks59bqne12hcb5yga8op",
+        "1kvgwkmiz5a5io62r6ledhy"
+      ],
+      "parent": "8655o7b563qlvdmr8bh7reg",
+      "data": {}
+    },
+    "1kvgwkmiz5a5io62r6ledhy": {
+      "id": "1kvgwkmiz5a5io62r6ledhy",
+      "title": "Organize OSHW Projects",
+      "desc": "",
+      "updated": 1729026911956,
+      "created": 1729026180829,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "96357ad3190edb689068c0995c8124a8",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+            "id": "1kvgwkmiz5a5io62r6ledhy",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 99,
+              "offset": 121
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+            "id": "1kvgwkmiz5a5io62r6ledhy",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 124
+            },
+            "end": {
+              "line": 5,
+              "column": 100,
+              "offset": 221
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+            "id": "1kvgwkmiz5a5io62r6ledhy",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 224
+            },
+            "end": {
+              "line": 6,
+              "column": 95,
+              "offset": 316
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 67,
+              "offset": 128
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects"
+        }
+      ],
+      "anchors": {
+        "derived-use-cases": {
+          "type": "header",
+          "text": "Derived Use Cases",
+          "value": "derived-use-cases",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "aedk9sv80dvcrjnqyhz1owp",
+        "lrr1qfd6wcco8q8e3oue4km",
+        "4syyoeef0x2dl42o6cxwfig"
+      ],
+      "parent": "0mp73mxrsqppact7oc0rluz",
+      "data": {}
+    },
+    "4syyoeef0x2dl42o6cxwfig": {
+      "id": "4syyoeef0x2dl42o6cxwfig",
+      "title": "Reuse Elements of This OSHW Project",
+      "desc": "",
+      "updated": 1729027464693,
+      "created": 1729026697523,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b48966a5df22335e680eac7c49d6d403",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+            "id": "4syyoeef0x2dl42o6cxwfig",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 39,
+              "offset": 81
+            },
+            "end": {
+              "line": 5,
+              "column": 135,
+              "offset": 177
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 224
+            },
+            "end": {
+              "line": 6,
+              "column": 95,
+              "offset": 316
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 103,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1kvgwkmiz5a5io62r6ledhy",
+      "data": {}
+    },
+    "lrr1qfd6wcco8q8e3oue4km": {
+      "id": "lrr1qfd6wcco8q8e3oue4km",
+      "title": "Reuse Elements of External OSHW Projects",
+      "desc": "",
+      "updated": 1729028319969,
+      "created": 1729026675326,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e82a590056d1a6825caa1eca75e73f85",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 124
+            },
+            "end": {
+              "line": 5,
+              "column": 100,
+              "offset": 221
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 108,
+              "offset": 169
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-external-oshw-projects"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1kvgwkmiz5a5io62r6ledhy",
+      "data": {}
+    },
+    "aedk9sv80dvcrjnqyhz1owp": {
+      "id": "aedk9sv80dvcrjnqyhz1owp",
+      "title": "Decompose OSHW Project into Subprojects",
+      "desc": "",
+      "updated": 1729026711749,
+      "created": 1729026619126,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4e4bf7197b33f10446bfa35d22a20d2e",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 99,
+              "offset": 121
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 107,
+              "offset": 168
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.use-cases-list.organize-oshw-projects.reuse-elements-of-this-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 39,
+              "offset": 81
+            },
+            "end": {
+              "line": 5,
+              "column": 135,
+              "offset": 177
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects",
+          "alias": "3-user-stories.use-cases-list.organize-oshw-projects.decompose-oshw-project-into-subprojects"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1kvgwkmiz5a5io62r6ledhy",
+      "data": {}
+    },
+    "6guks59bqne12hcb5yga8op": {
+      "id": "6guks59bqne12hcb5yga8op",
+      "title": "Fork an OSHW Project",
+      "desc": "",
+      "updated": 1729628540682,
+      "created": 1729628067817,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.fork-an-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7fd5eb3f5fa7adf5022e3c5f90716169",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.use-cases-list.fork-an-oshw-project",
+            "id": "6guks59bqne12hcb5yga8op",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user",
+          "alias": "3-user-stories.users-list.oshw-user",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 42,
+              "offset": 52
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "3-user-stories.use-cases-list.fork-an-oshw-project",
+            "id": "6guks59bqne12hcb5yga8op",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "alias": "3-user-stories.users-list.oshw-user.oshw-developer",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 74
+            },
+            "end": {
+              "line": 5,
+              "column": 57,
+              "offset": 128
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories.users-list.oshw-user.oshw-developer"
+          }
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 57
+            },
+            "end": {
+              "line": 3,
+              "column": 65,
+              "offset": 111
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.fork-an-oshw-project",
+          "alias": "3-user-stories.use-cases-list.fork-an-oshw-project"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0mp73mxrsqppact7oc0rluz",
+      "data": {}
+    },
+    "0ip40ulgkzaq74x6gu4o1lv": {
+      "id": "0ip40ulgkzaq74x6gu4o1lv",
+      "title": "Build an OSHW Project",
+      "desc": "",
+      "updated": 1729629255827,
+      "created": 1729629251142,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.build-an-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7836e114fd1bab1c99a373c5e3eb1477",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 57
+            },
+            "end": {
+              "line": 3,
+              "column": 66,
+              "offset": 112
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.build-an-oshw-project",
+          "alias": "3-user-stories.use-cases-list.build-an-oshw-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "0mp73mxrsqppact7oc0rluz",
+      "data": {}
+    },
+    "z3esa6d0s7y1ksnl2pr0uzv": {
+      "id": "z3esa6d0s7y1ksnl2pr0uzv",
+      "title": "Automate Certification",
+      "desc": "",
+      "updated": 1729024560656,
+      "created": 1729024369074,
+      "custom": {},
+      "fname": "3-user-stories.use-cases-list.automate-certification",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9653ad0beb99e56baf7290fe47368ebf",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 11,
+              "offset": 72
+            },
+            "end": {
+              "line": 3,
+              "column": 67,
+              "offset": 128
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.use-cases-list.automate-certification",
+          "alias": "3-user-stories.use-cases-list.automate-certification"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0mp73mxrsqppact7oc0rluz",
+      "data": {}
+    },
+    "rfvhnvj05t1ik89sdevynbt": {
+      "id": "rfvhnvj05t1ik89sdevynbt",
+      "title": "Rationales List",
+      "desc": "",
+      "updated": 1730843184452,
+      "created": 1727819217179,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "bd428cd79ff6995a947e7e47ee9e8bd1",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 209
+            },
+            "end": {
+              "line": 18,
+              "column": 36,
+              "offset": 244
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list"
+        },
+        {
+          "from": {
+            "fname": "templates.user-story",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 96
+            },
+            "end": {
+              "line": 4,
+              "column": 49,
+              "offset": 130
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list",
+          "alias": "3-user-stories.rationales-list"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "hjyjk8901dv9vd4asha9pha",
+        "d23jvu0gxgygvb3jqk973ih",
+        "0358acrsau9so23yx3tcxh5",
+        "idtrtdfnouzj2xnmpxf8k7a"
+      ],
+      "parent": "8655o7b563qlvdmr8bh7reg",
+      "data": {}
+    },
+    "idtrtdfnouzj2xnmpxf8k7a": {
+      "id": "idtrtdfnouzj2xnmpxf8k7a",
+      "title": "Reproduce the OSHW Project",
+      "desc": "",
+      "updated": 1729629808169,
+      "created": 1729629344128,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.reproduce-the-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2e6d594a37e8b5ff848ccd346e74b3af",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 128
+            },
+            "end": {
+              "line": 4,
+              "column": 76,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.reproduce-the-oshw-project",
+          "alias": "3-user-stories.rationales-list.reproduce-the-oshw-project"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "rfvhnvj05t1ik89sdevynbt",
+      "data": {}
+    },
+    "0358acrsau9so23yx3tcxh5": {
+      "id": "0358acrsau9so23yx3tcxh5",
+      "title": "Easily Certify Every Release",
+      "desc": "",
+      "updated": 1729024448734,
+      "created": 1729024448734,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.easily-certify-every-release",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "73f82f602df9571079d7d08bc336fa47",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 144
+            },
+            "end": {
+              "line": 4,
+              "column": 78,
+              "offset": 207
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.easily-certify-every-release",
+          "alias": "3-user-stories.rationales-list.easily-certify-every-release"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "rfvhnvj05t1ik89sdevynbt",
+      "data": {}
+    },
+    "d23jvu0gxgygvb3jqk973ih": {
+      "id": "d23jvu0gxgygvb3jqk973ih",
+      "title": "Customize the Forked OSHW Project",
+      "desc": "",
+      "updated": 1729628308905,
+      "created": 1729628303088,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.customize-the-forked-oshw-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e7f31d5379c3b508d35402e573d47db8",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 127
+            },
+            "end": {
+              "line": 4,
+              "column": 83,
+              "offset": 195
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.customize-the-forked-oshw-project",
+          "alias": "3-user-stories.rationales-list.customize-the-forked-oshw-project"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "rfvhnvj05t1ik89sdevynbt",
+      "data": {}
+    },
+    "hjyjk8901dv9vd4asha9pha": {
+      "id": "hjyjk8901dv9vd4asha9pha",
+      "title": "Conform to DRY Principle",
+      "desc": "",
+      "updated": 1729026373066,
+      "created": 1729026347464,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.conform-to-dry-principle",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4bdf6c316a0efb80ef610497c1743ad7",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 144
+            },
+            "end": {
+              "line": 4,
+              "column": 74,
+              "offset": 203
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "di2bw8vuxhe07whffww3q9b",
+        "a2r6p3tcgas7kxeh84alona",
+        "khfxtqov28cwoovn3gpqzge"
+      ],
+      "parent": "rfvhnvj05t1ik89sdevynbt",
+      "data": {}
+    },
+    "khfxtqov28cwoovn3gpqzge": {
+      "id": "khfxtqov28cwoovn3gpqzge",
+      "title": "Identify Reusable Elements of a Project",
+      "desc": "",
+      "updated": 1729027172869,
+      "created": 1729027166324,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.conform-to-dry-principle.identify-reusable-elements-of-a-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d9d2b3c2dd056bde013ac80f67d7d316",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 184
+            },
+            "end": {
+              "line": 4,
+              "column": 114,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle.identify-reusable-elements-of-a-project",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle.identify-reusable-elements-of-a-project"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hjyjk8901dv9vd4asha9pha",
+      "data": {}
+    },
+    "a2r6p3tcgas7kxeh84alona": {
+      "id": "a2r6p3tcgas7kxeh84alona",
+      "title": "Define an Element of a Project Only Once",
+      "desc": "",
+      "updated": 1729027586889,
+      "created": 1729027586889,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.conform-to-dry-principle.define-an-element-of-a-project-only-once",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fb53b2bcffa3b9fa0c92fa6b3aa845de",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 180
+            },
+            "end": {
+              "line": 4,
+              "column": 115,
+              "offset": 280
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle.define-an-element-of-a-project-only-once",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle.define-an-element-of-a-project-only-once"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hjyjk8901dv9vd4asha9pha",
+      "data": {}
+    },
+    "di2bw8vuxhe07whffww3q9b": {
+      "id": "di2bw8vuxhe07whffww3q9b",
+      "title": "Build upon Previous Engineering Effort",
+      "desc": "",
+      "updated": 1729028118362,
+      "created": 1729028086253,
+      "custom": {},
+      "fname": "3-user-stories.rationales-list.conform-to-dry-principle.build-upon-previous-engineering-effort",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2074fe90db168f9eb71b50f29e920ebd",
+      "links": [
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 15,
+              "offset": 185
+            },
+            "end": {
+              "line": 4,
+              "column": 113,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "value": "3-user-stories.rationales-list.conform-to-dry-principle.build-upon-previous-engineering-effort",
+          "alias": "3-user-stories.rationales-list.conform-to-dry-principle.build-upon-previous-engineering-effort"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hjyjk8901dv9vd4asha9pha",
+      "data": {}
+    },
+    "x9z2rffos85uyh5a7c1xmh2": {
+      "id": "x9z2rffos85uyh5a7c1xmh2",
+      "title": "2. There Must Be a Better Way",
+      "desc": "",
+      "updated": 1728596011930,
+      "created": 1728595138333,
+      "custom": {},
+      "fname": "2-a-better-way",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f18a0de9d69dcca2e55f99823f859dcf",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way",
+            "id": "x9z2rffos85uyh5a7c1xmh2",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way",
+            "id": "x9z2rffos85uyh5a7c1xmh2",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars",
+          "alias": "2-a-better-way.2-pillars",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 88
+            },
+            "end": {
+              "line": 6,
+              "column": 32,
+              "offset": 116
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way",
+            "id": "x9z2rffos85uyh5a7c1xmh2",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 4,
+              "column": 40,
+              "offset": 83
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way",
+            "id": "x9z2rffos85uyh5a7c1xmh2",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 118
+            },
+            "end": {
+              "line": 8,
+              "column": 30,
+              "offset": 147
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars"
+          }
+        },
+        {
+          "from": {
+            "fname": "0-workshop",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 54
+            },
+            "end": {
+              "line": 6,
+              "column": 22,
+              "offset": 72
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way",
+          "alias": "2-a-better-way"
+        },
+        {
+          "from": {
+            "fname": "0-workshop",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 74
+            },
+            "end": {
+              "line": 8,
+              "column": 20,
+              "offset": 93
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way"
+        }
+      ],
+      "anchors": {
+        "2-a-better-way1-core-capabilities": {
+          "type": "header",
+          "text": "2-a-better-way.1-core-capabilities",
+          "value": "2-a-better-way1-core-capabilities",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way2-pillars": {
+          "type": "header",
+          "text": "2-a-better-way.2-pillars",
+          "value": "2-a-better-way2-pillars",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "gxt00gigj1vgfc9gayv9q1o",
+        "6k53zfadywhww1r26lbeykt"
+      ],
+      "parent": "grm72euar5jvm3g7039hzc9",
+      "data": {}
+    },
+    "6k53zfadywhww1r26lbeykt": {
+      "id": "6k53zfadywhww1r26lbeykt",
+      "title": "2. Pillars",
+      "desc": "",
+      "updated": 1730237381261,
+      "created": 1728595325306,
+      "custom": {},
+      "fname": "2-a-better-way.2-pillars",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c453a9e6c0d339660457bee2412c489c",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "end": {
+              "line": 2,
+              "column": 80,
+              "offset": 80
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars.1-bom-data",
+          "alias": "2-a-better-way.2-pillars.1-bom-data",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 85
+            },
+            "end": {
+              "line": 4,
+              "column": 43,
+              "offset": 124
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars.1-bom-data"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars.2-instructions",
+          "alias": "2-a-better-way.2-pillars.2-instructions",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 171
+            },
+            "end": {
+              "line": 8,
+              "column": 47,
+              "offset": 214
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars.2-instructions"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars.3-supporting-data",
+          "alias": "2-a-better-way.2-pillars.3-supporting-data",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 4,
+              "offset": 265
+            },
+            "end": {
+              "line": 12,
+              "column": 50,
+              "offset": 311
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars.3-supporting-data"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars.1-bom-data",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 126
+            },
+            "end": {
+              "line": 6,
+              "column": 41,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars.1-bom-data"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars.2-instructions",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 216
+            },
+            "end": {
+              "line": 10,
+              "column": 45,
+              "offset": 260
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars.2-instructions"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "id": "6k53zfadywhww1r26lbeykt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.2-pillars.3-supporting-data",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 313
+            },
+            "end": {
+              "line": 14,
+              "column": 48,
+              "offset": 360
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.2-pillars.3-supporting-data"
+          }
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 88
+            },
+            "end": {
+              "line": 6,
+              "column": 32,
+              "offset": 116
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars",
+          "alias": "2-a-better-way.2-pillars"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 118
+            },
+            "end": {
+              "line": 8,
+              "column": 30,
+              "offset": 147
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars"
+        }
+      ],
+      "anchors": {
+        "2-a-better-way2-pillars1-bom-data": {
+          "type": "header",
+          "text": "2-a-better-way.2-pillars.1-bom-data",
+          "value": "2-a-better-way2-pillars1-bom-data",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way2-pillars2-instructions": {
+          "type": "header",
+          "text": "2-a-better-way.2-pillars.2-instructions",
+          "value": "2-a-better-way2-pillars2-instructions",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way2-pillars3-supporting-data": {
+          "type": "header",
+          "text": "2-a-better-way.2-pillars.3-supporting-data",
+          "value": "2-a-better-way2-pillars3-supporting-data",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6sd4i7px8r6jw9dh71v3558",
+        "82gydxsntjujxngqxqi6oj4",
+        "coywdnas48vrbabx52jz7b3"
+      ],
+      "parent": "x9z2rffos85uyh5a7c1xmh2",
+      "data": {}
+    },
+    "coywdnas48vrbabx52jz7b3": {
+      "id": "coywdnas48vrbabx52jz7b3",
+      "title": "3. Supporting Data",
+      "desc": "",
+      "updated": 1730507721305,
+      "created": 1728595690904,
+      "custom": {},
+      "fname": "2-a-better-way.2-pillars.3-supporting-data",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4d7cc6ddce028c004267e9c26c56d5a4",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 4,
+              "offset": 265
+            },
+            "end": {
+              "line": 12,
+              "column": 50,
+              "offset": 311
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars.3-supporting-data",
+          "alias": "2-a-better-way.2-pillars.3-supporting-data"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 313
+            },
+            "end": {
+              "line": 14,
+              "column": 48,
+              "offset": 360
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars.3-supporting-data"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6k53zfadywhww1r26lbeykt",
+      "data": {}
+    },
+    "82gydxsntjujxngqxqi6oj4": {
+      "id": "82gydxsntjujxngqxqi6oj4",
+      "title": "2. Instructions",
+      "desc": "",
+      "updated": 1730497834612,
+      "created": 1728595453892,
+      "custom": {},
+      "fname": "2-a-better-way.2-pillars.2-instructions",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8b5f234fbb185755d9e310d92bdb8ebb",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 171
+            },
+            "end": {
+              "line": 8,
+              "column": 47,
+              "offset": 214
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars.2-instructions",
+          "alias": "2-a-better-way.2-pillars.2-instructions"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 216
+            },
+            "end": {
+              "line": 10,
+              "column": 45,
+              "offset": 260
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars.2-instructions"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6k53zfadywhww1r26lbeykt",
+      "data": {}
+    },
+    "6sd4i7px8r6jw9dh71v3558": {
+      "id": "6sd4i7px8r6jw9dh71v3558",
+      "title": "1. BOM Data",
+      "desc": "",
+      "updated": 1730508687349,
+      "created": 1728595364305,
+      "custom": {},
+      "fname": "2-a-better-way.2-pillars.1-bom-data",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b07cc882ba45b12ccccd11b881ec8c10",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 85
+            },
+            "end": {
+              "line": 4,
+              "column": 43,
+              "offset": 124
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars.1-bom-data",
+          "alias": "2-a-better-way.2-pillars.1-bom-data"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 126
+            },
+            "end": {
+              "line": 6,
+              "column": 41,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.2-pillars.1-bom-data"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6k53zfadywhww1r26lbeykt",
+      "data": {}
+    },
+    "gxt00gigj1vgfc9gayv9q1o": {
+      "id": "gxt00gigj1vgfc9gayv9q1o",
+      "title": "1. Core Capabilities",
+      "desc": "",
+      "updated": 1730236669573,
+      "created": 1727901333541,
+      "custom": {},
+      "fname": "2-a-better-way.1-core-capabilities",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dd36c2a65611c8d3c5054a97b64a195a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "alias": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 116
+            },
+            "end": {
+              "line": 4,
+              "column": 60,
+              "offset": 172
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.1-oshw-definition"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "alias": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 236
+            },
+            "end": {
+              "line": 8,
+              "column": 63,
+              "offset": 295
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.2-oshw-certification"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "alias": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 4,
+              "offset": 362
+            },
+            "end": {
+              "line": 12,
+              "column": 68,
+              "offset": 426
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 4,
+              "offset": 498
+            },
+            "end": {
+              "line": 16,
+              "column": 116,
+              "offset": 610
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 174
+            },
+            "end": {
+              "line": 6,
+              "column": 58,
+              "offset": 231
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.1-oshw-definition"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 297
+            },
+            "end": {
+              "line": 10,
+              "column": 61,
+              "offset": 357
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.2-oshw-certification"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 428
+            },
+            "end": {
+              "line": 14,
+              "column": 66,
+              "offset": 493
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "id": "gxt00gigj1vgfc9gayv9q1o",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 612
+            },
+            "end": {
+              "line": 18,
+              "column": 114,
+              "offset": 725
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+          }
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 4,
+              "column": 40,
+              "offset": 83
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.2-pillars",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "end": {
+              "line": 2,
+              "column": 80,
+              "offset": 80
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "templates.user-story",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 143
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 181
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 220
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 258
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 296
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 334
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 216
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 254
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 296
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 334
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 293
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 331
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 202
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 240
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 12,
+              "offset": 208
+            },
+            "end": {
+              "line": 6,
+              "column": 50,
+              "offset": 246
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities",
+          "alias": "2-a-better-way.1-core-capabilities"
+        }
+      ],
+      "anchors": {
+        "2-a-better-way1-core-capabilities1-oshw-definition": {
+          "type": "header",
+          "text": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "value": "2-a-better-way1-core-capabilities1-oshw-definition",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way1-core-capabilities2-oshw-certification": {
+          "type": "header",
+          "text": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "value": "2-a-better-way1-core-capabilities2-oshw-certification",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way1-core-capabilities3-oshw-should-be-like-oss": {
+          "type": "header",
+          "text": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "value": "2-a-better-way1-core-capabilities3-oshw-should-be-like-oss",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way1-core-capabilities4-oshw-development-should-leverage-modern-software-development-techniques": {
+          "type": "header",
+          "text": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "value": "2-a-better-way1-core-capabilities4-oshw-development-should-leverage-modern-software-development-techniques",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "92tw5jajjs2i1njapbn6sr2",
+        "wnfhk1lyrz6r56si1p87dy3",
+        "unj23tn51l1huf1t5dl1akx",
+        "m82kets1w41kkt4tn1xkkne",
+        "mpi2r94umzmv4nh73f5vrrj"
+      ],
+      "parent": "x9z2rffos85uyh5a7c1xmh2",
+      "data": {}
+    },
+    "mpi2r94umzmv4nh73f5vrrj": {
+      "id": "mpi2r94umzmv4nh73f5vrrj",
+      "title": "4. OSHW Development Should Leverage Modern Software Development Techniques",
+      "desc": "",
+      "updated": 1729029209071,
+      "created": 1729028476793,
+      "custom": {},
+      "fname": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b9c120fec796ade77a74f0c4a683e04c",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 4,
+              "offset": 498
+            },
+            "end": {
+              "line": 16,
+              "column": 116,
+              "offset": 610
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 612
+            },
+            "end": {
+              "line": 18,
+              "column": 114,
+              "offset": 725
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-decompose-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 336
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 448
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-organize-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 256
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-external-projects",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 336
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 448
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-reuse-elements-of-this-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 333
+            },
+            "end": {
+              "line": 6,
+              "column": 164,
+              "offset": 445
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques",
+          "alias": "2-a-better-way.1-core-capabilities.4-oshw-development-should-leverage-modern-software-development-techniques"
+        }
+      ],
+      "anchors": {
+        "examples": {
+          "type": "header",
+          "text": "examples",
+          "value": "examples",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "gxt00gigj1vgfc9gayv9q1o",
+      "data": {}
+    },
+    "m82kets1w41kkt4tn1xkkne": {
+      "id": "m82kets1w41kkt4tn1xkkne",
+      "title": "3. OSHW Should Be like OSS",
+      "desc": "",
+      "updated": 1728593235436,
+      "created": 1728592675589,
+      "custom": {},
+      "fname": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "64acf85beb80b46401e64d4617b20917",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 4,
+              "offset": 362
+            },
+            "end": {
+              "line": 12,
+              "column": 68,
+              "offset": 426
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "alias": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 428
+            },
+            "end": {
+              "line": 14,
+              "column": 66,
+              "offset": 493
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-fork-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 248
+            },
+            "end": {
+              "line": 6,
+              "column": 116,
+              "offset": 312
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss",
+          "alias": "2-a-better-way.1-core-capabilities.3-oshw-should-be-like-oss"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gxt00gigj1vgfc9gayv9q1o",
+      "data": {}
+    },
+    "unj23tn51l1huf1t5dl1akx": {
+      "id": "unj23tn51l1huf1t5dl1akx",
+      "title": "2. OSHW Certification",
+      "desc": "",
+      "updated": 1728593156636,
+      "created": 1728592644708,
+      "custom": {},
+      "fname": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1bc259bdbbb0489fd480e426fcc31ae6",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 236
+            },
+            "end": {
+              "line": 8,
+              "column": 63,
+              "offset": 295
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "alias": "2-a-better-way.1-core-capabilities.2-oshw-certification"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 297
+            },
+            "end": {
+              "line": 10,
+              "column": 61,
+              "offset": 357
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.2-oshw-certification"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.developer-automate-certification",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 260
+            },
+            "end": {
+              "line": 6,
+              "column": 111,
+              "offset": 319
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.2-oshw-certification",
+          "alias": "2-a-better-way.1-core-capabilities.2-oshw-certification"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gxt00gigj1vgfc9gayv9q1o",
+      "data": {}
+    },
+    "wnfhk1lyrz6r56si1p87dy3": {
+      "id": "wnfhk1lyrz6r56si1p87dy3",
+      "title": "1. OSHW Definition",
+      "desc": "",
+      "updated": 1728593081001,
+      "created": 1728592604551,
+      "custom": {},
+      "fname": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "0abf5cfd88eb446604557d23660149af",
+      "links": [
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 116
+            },
+            "end": {
+              "line": 4,
+              "column": 60,
+              "offset": 172
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "alias": "2-a-better-way.1-core-capabilities.1-oshw-definition"
+        },
+        {
+          "from": {
+            "fname": "2-a-better-way.1-core-capabilities",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 174
+            },
+            "end": {
+              "line": 6,
+              "column": 58,
+              "offset": 231
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.1-oshw-definition"
+        },
+        {
+          "from": {
+            "fname": "3-user-stories.user-stories-list.user-build-an-oshw-project",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 52,
+              "offset": 242
+            },
+            "end": {
+              "line": 6,
+              "column": 108,
+              "offset": 298
+            },
+            "indent": []
+          },
+          "value": "2-a-better-way.1-core-capabilities.1-oshw-definition",
+          "alias": "2-a-better-way.1-core-capabilities.1-oshw-definition"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gxt00gigj1vgfc9gayv9q1o",
+      "data": {}
+    },
+    "92tw5jajjs2i1njapbn6sr2": {
+      "id": "92tw5jajjs2i1njapbn6sr2",
+      "title": "0. Unidentified",
+      "desc": "",
+      "updated": 1728592724728,
+      "created": 1728592718251,
+      "custom": {},
+      "fname": "2-a-better-way.1-core-capabilities.0-unidentified",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "01f132cf965517196b5dbbe0e1c4929c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "gxt00gigj1vgfc9gayv9q1o",
+      "data": {}
+    },
+    "py9pnyni5n8iwwbgqmfsad1": {
+      "id": "py9pnyni5n8iwwbgqmfsad1",
+      "title": "1. Audience Survey",
+      "desc": "",
+      "updated": 1730508115418,
+      "created": 1727901282127,
+      "custom": {},
+      "fname": "1-audience-survey",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a42e48ccee50bea66d771e6d9474386b",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q1",
+          "alias": "1-audience-survey.q1",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 15
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 39
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-audience-survey.q1"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q2",
+          "alias": "1-audience-survey.q2",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 41
+            },
+            "end": {
+              "line": 6,
+              "column": 25,
+              "offset": 65
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-audience-survey.q2"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q3",
+          "alias": "1-audience-survey.q3",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 67
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 91
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-audience-survey.q3"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q4",
+          "alias": "1-audience-survey.q4",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 93
+            },
+            "end": {
+              "line": 10,
+              "column": 25,
+              "offset": 117
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-audience-survey.q4"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q5",
+          "alias": "1-audience-survey.q5",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 119
+            },
+            "end": {
+              "line": 12,
+              "column": 25,
+              "offset": 143
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-audience-survey.q5"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q1",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 157
+            },
+            "end": {
+              "line": 16,
+              "column": 26,
+              "offset": 182
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "1-audience-survey.q1"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q2",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 184
+            },
+            "end": {
+              "line": 18,
+              "column": 26,
+              "offset": 209
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "1-audience-survey.q2"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q3",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 1,
+              "offset": 211
+            },
+            "end": {
+              "line": 20,
+              "column": 26,
+              "offset": 236
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "1-audience-survey.q3"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q4",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 238
+            },
+            "end": {
+              "line": 22,
+              "column": 26,
+              "offset": 263
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "1-audience-survey.q4"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "1-audience-survey",
+            "id": "py9pnyni5n8iwwbgqmfsad1",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey.q5",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 1,
+              "offset": 265
+            },
+            "end": {
+              "line": 24,
+              "column": 26,
+              "offset": 290
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "1-audience-survey.q5"
+          }
+        },
+        {
+          "from": {
+            "fname": "0-workshop",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 25,
+              "offset": 25
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey",
+          "alias": "1-audience-survey"
+        },
+        {
+          "from": {
+            "fname": "0-workshop",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 23,
+              "offset": 49
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey"
+        }
+      ],
+      "anchors": {
+        "questions": {
+          "type": "header",
+          "text": "Questions",
+          "value": "questions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "vatakntmpixw8trhk0j7d18",
+        "gw1yukq3xe1gbwxk6hvoz36",
+        "hmsq2kbj4iv67nkjubl4ll1",
+        "ofgqlh3kps5au9p5ltkszo5",
+        "yasz8z5tj5sx7msifvx0g3v"
+      ],
+      "parent": "grm72euar5jvm3g7039hzc9",
+      "data": {}
+    },
+    "yasz8z5tj5sx7msifvx0g3v": {
+      "id": "yasz8z5tj5sx7msifvx0g3v",
+      "title": "Q5. Has anyone tried modifying or building on top of existing projects? (x5/y)",
+      "desc": "",
+      "updated": 1730235633978,
+      "created": 1727902405952,
+      "custom": {},
+      "fname": "1-audience-survey.q5",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "43d1ccc3981e35e20735b76d871edc7a",
+      "links": [
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 119
+            },
+            "end": {
+              "line": 12,
+              "column": 25,
+              "offset": 143
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q5",
+          "alias": "1-audience-survey.q5"
+        },
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 1,
+              "offset": 265
+            },
+            "end": {
+              "line": 24,
+              "column": 26,
+              "offset": 290
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q5"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "py9pnyni5n8iwwbgqmfsad1",
+      "data": {}
+    },
+    "ofgqlh3kps5au9p5ltkszo5": {
+      "id": "ofgqlh3kps5au9p5ltkszo5",
+      "title": "Q4. How many of you have re-certified updated releases of certified projects? (x4/x2)",
+      "desc": "",
+      "updated": 1730235487670,
+      "created": 1727902333245,
+      "custom": {},
+      "fname": "1-audience-survey.q4",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8382be472329286f605207bc73b5184c",
+      "links": [
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 93
+            },
+            "end": {
+              "line": 10,
+              "column": 25,
+              "offset": 117
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q4",
+          "alias": "1-audience-survey.q4"
+        },
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 238
+            },
+            "end": {
+              "line": 22,
+              "column": 26,
+              "offset": 263
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q4"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "py9pnyni5n8iwwbgqmfsad1",
+      "data": {}
+    },
+    "hmsq2kbj4iv67nkjubl4ll1": {
+      "id": "hmsq2kbj4iv67nkjubl4ll1",
+      "title": "Q3. Have any of you certified multiple projects? (x3/x2)",
+      "desc": "",
+      "updated": 1730235489977,
+      "created": 1727902286362,
+      "custom": {},
+      "fname": "1-audience-survey.q3",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "73887320b51d1581a50e841d6bc75c65",
+      "links": [
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 67
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 91
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q3",
+          "alias": "1-audience-survey.q3"
+        },
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 1,
+              "offset": 211
+            },
+            "end": {
+              "line": 20,
+              "column": 26,
+              "offset": 236
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q3"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "py9pnyni5n8iwwbgqmfsad1",
+      "data": {}
+    },
+    "gw1yukq3xe1gbwxk6hvoz36": {
+      "id": "gw1yukq3xe1gbwxk6hvoz36",
+      "title": "Q2. How many of you have certified any of those projects? (x2/x1)",
+      "desc": "",
+      "updated": 1730235460350,
+      "created": 1727902180050,
+      "custom": {},
+      "fname": "1-audience-survey.q2",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "54450e644e898e8ae8971559793fbe14",
+      "links": [
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 41
+            },
+            "end": {
+              "line": 6,
+              "column": 25,
+              "offset": 65
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q2",
+          "alias": "1-audience-survey.q2"
+        },
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 184
+            },
+            "end": {
+              "line": 18,
+              "column": 26,
+              "offset": 209
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q2"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "py9pnyni5n8iwwbgqmfsad1",
+      "data": {}
+    },
+    "vatakntmpixw8trhk0j7d18": {
+      "id": "vatakntmpixw8trhk0j7d18",
+      "title": "Q1. How many people here have released a OSHW project? (x1/y)",
+      "desc": "",
+      "updated": 1730235469806,
+      "created": 1727901744843,
+      "custom": {},
+      "fname": "1-audience-survey.q1",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "24c7fa53a5b3ab9ac302d0c00c85e4b6",
+      "links": [
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 15
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 39
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q1",
+          "alias": "1-audience-survey.q1"
+        },
+        {
+          "from": {
+            "fname": "1-audience-survey",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 157
+            },
+            "end": {
+              "line": 16,
+              "column": 26,
+              "offset": 182
+            },
+            "indent": []
+          },
+          "value": "1-audience-survey.q1"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "py9pnyni5n8iwwbgqmfsad1",
+      "data": {}
+    },
+    "xox7exjnhcxnab73bxyrblt": {
+      "id": "xox7exjnhcxnab73bxyrblt",
+      "title": "0. Workshop",
+      "desc": "",
+      "updated": 1730491819579,
+      "created": 1727904190499,
+      "custom": {},
+      "fname": "0-workshop",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c5452354bf814e8bd8afabfd0a80e333",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "0-workshop",
+            "id": "xox7exjnhcxnab73bxyrblt",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey",
+          "alias": "1-audience-survey",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 25,
+              "offset": 25
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-audience-survey"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "0-workshop",
+            "id": "xox7exjnhcxnab73bxyrblt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way",
+          "alias": "2-a-better-way",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 54
+            },
+            "end": {
+              "line": 6,
+              "column": 22,
+              "offset": 72
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-a-better-way"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "0-workshop",
+            "id": "xox7exjnhcxnab73bxyrblt",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories",
+          "alias": "3-user-stories",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 4,
+              "offset": 98
+            },
+            "end": {
+              "line": 10,
+              "column": 22,
+              "offset": 116
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "3-user-stories"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "0-workshop",
+            "id": "xox7exjnhcxnab73bxyrblt",
+            "vaultName": "vault"
+          },
+          "value": "1-audience-survey",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 23,
+              "offset": 49
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "1-audience-survey"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "0-workshop",
+            "id": "xox7exjnhcxnab73bxyrblt",
+            "vaultName": "vault"
+          },
+          "value": "2-a-better-way",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 74
+            },
+            "end": {
+              "line": 8,
+              "column": 20,
+              "offset": 93
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-a-better-way"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "0-workshop",
+            "id": "xox7exjnhcxnab73bxyrblt",
+            "vaultName": "vault"
+          },
+          "value": "3-user-stories",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 118
+            },
+            "end": {
+              "line": 12,
+              "column": 20,
+              "offset": 137
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "3-user-stories"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 326
+            },
+            "end": {
+              "line": 6,
+              "column": 18,
+              "offset": 340
+            },
+            "indent": []
+          },
+          "value": "0-workshop",
+          "alias": "0-workshop"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 372
+            },
+            "end": {
+              "line": 10,
+              "column": 16,
+              "offset": 387
+            },
+            "indent": []
+          },
+          "value": "0-workshop"
+        }
+      ],
+      "anchors": {
+        "1-audience-survey": {
+          "type": "header",
+          "text": "1-audience-survey",
+          "value": "1-audience-survey",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "2-a-better-way": {
+          "type": "header",
+          "text": "2-a-better-way",
+          "value": "2-a-better-way",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "3-user-stories": {
+          "type": "header",
+          "text": "3-user-stories",
+          "value": "3-user-stories",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "grm72euar5jvm3g7039hzc9",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "grm72euar5jvm3g7039hzc9",
+      "title": "OSHW Project Management User Stories",
+      "desc": "",
+      "updated": 1730492720315,
+      "created": 1727814145470,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a58f008dac7f69513dec9e1de9444f92",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "grm72euar5jvm3g7039hzc9",
+            "vaultName": "vault"
+          },
+          "value": "0-workshop",
+          "alias": "0-workshop",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 326
+            },
+            "end": {
+              "line": 6,
+              "column": 18,
+              "offset": 340
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "0-workshop"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "root",
+            "id": "grm72euar5jvm3g7039hzc9",
+            "vaultName": "vault"
+          },
+          "value": "0-workshop",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 372
+            },
+            "end": {
+              "line": 10,
+              "column": 16,
+              "offset": 387
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "0-workshop"
+          }
+        }
+      ],
+      "anchors": {
+        "preamble": {
+          "type": "header",
+          "text": "Preamble",
+          "value": "preamble",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "0-workshop": {
+          "type": "header",
+          "text": "0-workshop",
+          "value": "0-workshop",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xox7exjnhcxnab73bxyrblt",
+        "py9pnyni5n8iwwbgqmfsad1",
+        "x9z2rffos85uyh5a7c1xmh2",
+        "8655o7b563qlvdmr8bh7reg",
+        "u4pvwq8xtlj4awlt51jjzow"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n## Preamble\n\nWelcome to the *How do you share your Open-Source Hardware project* workshop summary report. During the workshop we worked with participants to identify what we can do as a community to make it easier to share, communicate, and collaborate on OSHW projects. The following content is the result of that work.\n\n## [[0-workshop]]\n\n![](/assets/oshw-logo.svg){}\n\n![[0-workshop]]\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "grm72euar5jvm3g7039hzc9",
+    "title": "OSHW Project Management User Stories",
+    "desc": "",
+    "updated": 1730492720315,
+    "created": 1727814145470,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "a58f008dac7f69513dec9e1de9444f92",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "grm72euar5jvm3g7039hzc9",
+          "vaultName": "vault"
+        },
+        "value": "0-workshop",
+        "alias": "0-workshop",
+        "position": {
+          "start": {
+            "line": 6,
+            "column": 4,
+            "offset": 326
+          },
+          "end": {
+            "line": 6,
+            "column": 18,
+            "offset": 340
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "0-workshop"
+        }
+      },
+      {
+        "type": "ref",
+        "from": {
+          "fname": "root",
+          "id": "grm72euar5jvm3g7039hzc9",
+          "vaultName": "vault"
+        },
+        "value": "0-workshop",
+        "position": {
+          "start": {
+            "line": 10,
+            "column": 1,
+            "offset": 372
+          },
+          "end": {
+            "line": 10,
+            "column": 16,
+            "offset": 387
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "to": {
+          "fname": "0-workshop"
+        }
+      }
+    ],
+    "anchors": {
+      "preamble": {
+        "type": "header",
+        "text": "Preamble",
+        "value": "preamble",
+        "line": 8,
+        "column": 0,
+        "depth": 2
+      },
+      "0-workshop": {
+        "type": "header",
+        "text": "0-workshop",
+        "value": "0-workshop",
+        "line": 12,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "xox7exjnhcxnab73bxyrblt",
+      "py9pnyni5n8iwwbgqmfsad1",
+      "x9z2rffos85uyh5a7c1xmh2",
+      "8655o7b563qlvdmr8bh7reg",
+      "u4pvwq8xtlj4awlt51jjzow"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n## Preamble\n\nWelcome to the *How do you share your Open-Source Hardware project* workshop summary report. During the workshop we worked with participants to identify what we can do as a community to make it easier to share, communicate, and collaborate on OSHW projects. The following content is the result of that work.\n\n## [[0-workshop]]\n\n![](/assets/oshw-logo.svg){}\n\n![[0-workshop]]\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
