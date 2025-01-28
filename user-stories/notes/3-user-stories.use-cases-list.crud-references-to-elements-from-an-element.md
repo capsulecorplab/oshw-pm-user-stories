@@ -2,7 +2,7 @@
 id: lau1i8byyd5j5qfwub8ho4s
 title: CRUD References to Elements from an Element
 desc: ''
-updated: 1736891710254
+updated: 1738099051814
 created: 1736890793225
 ---
 
@@ -13,3 +13,4 @@ created: 1736890793225
   - views are always siblings to elements
   - therefore, a view must be provided element(s) as input
   - elements that views are provided as input are provided via an interface into said view
+- references are a 1-to-1 or 1-to-many relationship
