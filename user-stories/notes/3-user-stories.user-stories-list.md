@@ -2,7 +2,7 @@
 id: dvx35bxeck5zhnbvh5o4xq3
 title: User Stories List
 desc: ''
-updated: 1736890226524
+updated: 1738352876998
 created: 1727819190610
 ---
 
@@ -31,3 +31,13 @@ created: 1727819190610
 ![[3-user-stories.user-stories-list.developer-structural-diff-project]]
 
 ![[3-user-stories.user-stories-list.user-annotate-an-oshw-project]]
+
+![[3-user-stories.user-stories-list.user-comment-on-elements]]
+
+![[3-user-stories.user-stories-list.developer-attach-a-citation]]
+
+![[3-user-stories.user-stories-list.user-create-agile-decision-record]]
+
+![[3-user-stories.user-stories-list.developer-associate-a-figure-with-elements]]
+
+![[3-user-stories.user-stories-list.developer-associate-an-asset-with-elements]]
