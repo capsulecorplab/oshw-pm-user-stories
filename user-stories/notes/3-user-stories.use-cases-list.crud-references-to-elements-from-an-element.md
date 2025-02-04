@@ -2,7 +2,7 @@
 id: lau1i8byyd5j5qfwub8ho4s
 title: CRUD References to Elements from an Element
 desc: ''
-updated: 1738099051814
+updated: 1738706597786
 created: 1736890793225
 ---
 
@@ -14,3 +14,5 @@ created: 1736890793225
   - therefore, a view must be provided element(s) as input
   - elements that views are provided as input are provided via an interface into said view
 - references are a 1-to-1 or 1-to-many relationship
+- e.g., I might want to import my Universal Controller into another project but be able to mention that you need to plug something into a particular port on the Raspberry Pi. Would like there to be a way to reference it like parts.universal-controller.parts.raspberry-pi.description (in legacy DOF)
+- references may be implemented as a qualified names (i.e., relative file path names or fully qualified domain names)
